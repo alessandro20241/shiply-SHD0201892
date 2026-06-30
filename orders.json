@@ -1,0 +1,43 @@
+{
+  "SHD0201892": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Matej Mljac, Lokev 193 H6219 Lokev, Slovenia",
+    "price": "12.200 €",
+    "description": "Hersteller: Harley-Davidson <br>Typ: Breakout FXBRS <br> Fahrgestelnummer: 5HD1YHK43MS019641 <br>Erstzulassung: 03/2014 <br>TÜV 03/2027 <br> KM laut Vorbesitzer: 41.341 km <br>Leistung: 55 kW (75 PS) <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Bezitser 1 <br> Dr. Jekill & Mr. Hyde Klappenauspuffanlage; Viele Extras; Originalteile vorhanden <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Matej Mljac<br>Lokev 193 H<br> 6219 Lokev<br> Slovenia <br>Telefon: +386 41721148",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "30-06-2026",
+    "deliveryDate": "13-07-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Lokev 193 H",
+      "postal_code": "6219",
+      "city": "Lokev",
+      "country": "Slovenia"
+    }
+  }
+}
